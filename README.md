@@ -1,2 +1,3 @@
 # TestGitHub
-this is test
+Test Git hub is repository
+to see etc
